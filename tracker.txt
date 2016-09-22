@@ -1,2 +1,8 @@
 tracker <- added by Rev-G
+<<<<<<< HEAD
 Bryce is...
+=======
+Bryce is...
+2nd test
+
+>>>>>>> master
