@@ -1,4 +1,3 @@
 tracker <- added by Rev-G
-Bryce is…cool
-Michael is wicked!
+Things are different now
 
